@@ -1,0 +1,9 @@
+D:\Project\EmployeeProject\EmployeeProject\bin\Debug\EmployeeProject.exe.config
+D:\Project\EmployeeProject\EmployeeProject\bin\Debug\EmployeeProject.exe
+D:\Project\EmployeeProject\EmployeeProject\bin\Debug\EmployeeProject.pdb
+D:\Project\EmployeeProject\EmployeeProject\obj\Debug\EmployeeProject.csprojResolveAssemblyReference.cache
+D:\Project\EmployeeProject\EmployeeProject\obj\Debug\EmployeeProject.MenuForm.resources
+D:\Project\EmployeeProject\EmployeeProject\obj\Debug\EmployeeProject.Properties.Resources.resources
+D:\Project\EmployeeProject\EmployeeProject\obj\Debug\EmployeeProject.csproj.GenerateResource.Cache
+D:\Project\EmployeeProject\EmployeeProject\obj\Debug\EmployeeProject.exe
+D:\Project\EmployeeProject\EmployeeProject\obj\Debug\EmployeeProject.pdb
